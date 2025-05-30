@@ -27,7 +27,7 @@ O site simula a presença digital de uma pizzaria tradicional, com mais de 70 an
 - Formulário com validação HTML e JavaScript;
 - Estilo interativo com hover, transições e animações simples.
 
-## 📁 Organização dos Arquivos
+##  Organização dos Arquivos
 
 ```
 pizzaria-bella-massa/
